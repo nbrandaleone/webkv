@@ -16,9 +16,9 @@ This program is meant as a learning example only.
 Use redis for a production grade Key-Value store.
 
 NOTE: This program was inspired and modified from the following sources:
-  -[YouTube](https://www.youtube.com/watch?v=topKYJgv6qA)
-  -[slides](https://www.janstepien.com/native-clojure-with-graalvm/)
-  -[Blog](https://www.innoq.com/en/blog/native-clojure-and-graalvm/)
+* [YouTube](https://www.youtube.com/watch?v=topKYJgv6qA)
+* [slides](https://www.janstepien.com/native-clojure-with-graalvm/)
+* [Blog](https://www.innoq.com/en/blog/native-clojure-and-graalvm/)
 
 ## Usage
 
