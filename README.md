@@ -19,6 +19,7 @@ Use redis for a production grade Key-Value store.
 
 ### Testing
 
+``` sh
 $ curl localhost:8080/kv/city -i -X PUT -d val=Boston
 HTTP/1.1 201 Created
 Content-Type: application/octet-stream
@@ -36,7 +37,7 @@ Server: http-kit
 Date: Tue, 14 Apr 2020 20:51:50 GMT
 
 Boston
-
+```
 
 ## License
 
